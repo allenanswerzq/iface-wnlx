@@ -1,0 +1,1 @@
+@vboxmanage controlvm ifaceUbuntu acpipowerbutton
